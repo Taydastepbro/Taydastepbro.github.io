@@ -1,0 +1,12 @@
+<table>
+  <tr>
+    <th></th>
+	<th scope="col">Weight in April<th>
+	<th scope="col">Weight on May</th>
+  </tr>
+  <tr>
+    <the scope="row">Weight by month:</th>
+	<td>209.6 lbs</td>
+	<td>204.4 lbs</td>
+  </tr>
+</table>
